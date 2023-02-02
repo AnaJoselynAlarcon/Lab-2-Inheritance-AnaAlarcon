@@ -1,0 +1,8 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\bin\Debug\Inheritance LAB ANAAAAAAAA.exe.config
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\bin\Debug\Inheritance LAB ANAAAAAAAA.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\bin\Debug\Inheritance LAB ANAAAAAAAA.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\obj\Debug\Inheritance LAB ANAAAAAAAA.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\obj\Debug\Inheritance LAB ANAAAAAAAA.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\obj\Debug\Inheritance LAB ANAAAAAAAA.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\obj\Debug\Inheritance LAB ANAAAAAAAA.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Inheritance LAB ANAAAAAAAA\obj\Debug\Inheritance LAB ANAAAAAAAA.pdb
