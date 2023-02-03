@@ -13,6 +13,28 @@ namespace INHERITANCEBLABLABLA
         private double rate;
 
 
+
+
+        //Properties
+        public override double Pay
+        {
+            get
+            {
+                if (hours > 40)
+                {
+                    double overTime = (hours - 40) * (rate * 1.5);
+                    double normalTime = this.hours * this.rate;
+                    return normalTime + overTime;
+                }
+                else
+                {
+                    return this.hours * this.rate;
+                }
+            }
+
+        }
+
+
         //Consturtor
         public Waged(string id, string name, string address, string phone, long sin, string birthdate, string dept, double rate, double hours)
         {
@@ -27,5 +49,10 @@ namespace INHERITANCEBLABLABLA
             this.hours = hours;
             this.rate = rate;
         }
+
+         
+
     }
+
+
 }

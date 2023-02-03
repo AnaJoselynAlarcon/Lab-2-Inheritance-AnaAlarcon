@@ -14,6 +14,16 @@ namespace INHERITANCEBLABLABLA
 
         //----PROPERTY debe ser publica, para poder accesar en el programa
 
+        public double Salary
+        {
+            get => salary;
+        }
+
+        public override double Pay
+        {
+            get => salary;
+        }
+
 
 
         //----CONSTRUCTOR

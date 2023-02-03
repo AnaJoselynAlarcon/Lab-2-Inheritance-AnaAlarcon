@@ -19,8 +19,18 @@ namespace INHERITANCEBLABLABLA
         protected string dept;
 
 
-        //Properties : leer y modificar el valor de FIELDS, desde program
 
+        //Properties : leer y modificar el valor de FIELDS, desde program
+        public virtual double Pay
+        {
+            //get { return 0; }
+            get => 0;
+        }
+
+        public string Name
+        {
+            get => name;
+        }
 
 
         //------CONSTRUCTOR------
