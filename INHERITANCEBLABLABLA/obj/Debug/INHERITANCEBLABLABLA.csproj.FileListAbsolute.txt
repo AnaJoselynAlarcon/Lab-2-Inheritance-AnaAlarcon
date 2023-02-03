@@ -1,0 +1,9 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\bin\Debug\employees.txt
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\bin\Debug\INHERITANCEBLABLABLA.exe.config
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\bin\Debug\INHERITANCEBLABLABLA.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\bin\Debug\INHERITANCEBLABLABLA.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\obj\Debug\INHERITANCEBLABLABLA.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\obj\Debug\INHERITANCEBLABLABLA.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\obj\Debug\INHERITANCEBLABLABLA.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\obj\Debug\INHERITANCEBLABLABLA.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\INHERITANCEBLABLABLA\obj\Debug\INHERITANCEBLABLABLA.pdb
