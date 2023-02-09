@@ -1,0 +1,8 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\bin\Debug\Interface_February9.exe.config
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\bin\Debug\Interface_February9.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\bin\Debug\Interface_February9.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\obj\Debug\Interface_February9.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\obj\Debug\Interface_February9.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\obj\Debug\Interface_February9.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\obj\Debug\Interface_February9.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab-2-Inheritance-AnaAlarcon\Interface_February9\obj\Debug\Interface_February9.pdb
